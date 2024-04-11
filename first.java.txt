@@ -1,0 +1,10 @@
+class java{
+
+     void m1(){
+                        }
+  
+     void m2(){
+                        }
+
+
+}
